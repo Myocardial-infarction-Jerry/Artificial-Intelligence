@@ -1,0 +1,14 @@
+import os
+
+INF = 1E9
+DIR = os.path.dirname(__file__)
+
+MAX_L = 110
+MAX_ITER = 1000
+ACCEPTPROD = 1E-1
+
+MUTATEPROD = 0.2
+POPULATION = 1000
+GENERATION_ITER = 200000
+REPROD_RATE = 1.2
+LIMIT = 200

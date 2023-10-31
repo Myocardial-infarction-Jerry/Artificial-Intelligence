@@ -1,0 +1,12 @@
+Arad Iasi
+The shortest path is: Arad -> Sibiu -> RimnicuVilcea -> Pitesti -> Bucharest -> Urziceni -> Vaslui -> Iasi
+The distance is: 737
+Pitesti Sibiu
+The shortest path is: Pitesti -> RimnicuVilcea -> Sibiu
+The distance is: 177
+Pitesti Craiova
+The shortest path is: Pitesti -> Craiova
+The distance is: 138
+G G
+The shortest path is: G
+The distance is: 0

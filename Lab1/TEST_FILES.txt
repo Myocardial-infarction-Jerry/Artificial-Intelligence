@@ -1,0 +1,22 @@
+Last login: Tue Feb 28 18:03:31 on ttys001
+(base) MacBook-Pro ~ % python3 Shortest-Path.py
+Input 'stop' to quit. 
+I z
+The shortest path is: Iasi -> Vaslui -> Urziceni -> Bucharest -> Pitesti -> RimnicuVilcea -> Sibiu -> Arad -> Zerind
+The distance is: 812
+c v
+The shortest path is: Craiova -> Pitesti -> Bucharest -> Urziceni -> Vaslui
+The distance is: 466
+Pitesti Sibiu
+The shortest path is: Pitesti -> RimnicuVilcea -> Sibiu
+The distance is: 177
+aldjwka fwa
+ERROR: invalid input, please check nodes' name
+Iasi Pitesti Sibiu
+ERROR: invalid input, requiring 2 arguments excepting 3
+stop
+(base) MacBook-Pro ~ % 
+
+
+
+

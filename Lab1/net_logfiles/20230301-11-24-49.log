@@ -1,0 +1,12 @@
+Iasi Arad
+The shortest path is: Iasi -> Vaslui -> Urziceni -> Bucharest -> Pitesti -> RimnicuVilcea -> Sibiu -> Arad
+The distance is: 737
+Sibiu Fagaras
+The shortest path is: Sibiu -> Fagaras
+The distance is: 99
+Sibiu Bucharest
+The shortest path is: Sibiu -> RimnicuVilcea -> Pitesti -> Bucharest
+The distance is: 278
+Arad Iasi
+The shortest path is: Arad -> Sibiu -> RimnicuVilcea -> Pitesti -> Bucharest -> Urziceni -> Vaslui -> Iasi
+The distance is: 737
